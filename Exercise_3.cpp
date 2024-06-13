@@ -4,7 +4,7 @@
  * Time Complexity : 
  * Time complexity for individual operations push and insertafter is O(1)
  * Time complexity for displaying  or appending would be O(N)
- *      where N is the size of the Array.
+ *      where N is number of nodes.
  * 
  * Space Complexity : O(N) 
  *      worst case scenario if we need to add N elements, it will be O(N).
