@@ -1,5 +1,5 @@
 /*
- * Implementing arrays using Stacks [LIFO]
+ * Implementing Stacks using Arrays [LIFO]
  *
  * Time Complexity : 
  * Time complexity for individual operations top()/peek(), pop(), push() is O(1)
